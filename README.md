@@ -28,8 +28,14 @@ Each user provides scores ranging from 0 to 10 for each field, indicating their 
 We employ three different algorithms for career prediction:
 
 1. **Logistic Regression:** This algorithm classifies users into different career paths based on their interest scores in various fields.
-2. **K-Nearest Neighbors (KNN) Model:** The KNN model predicts users' potential career paths by comparing their interest scores with those of similar users in the dataset.
-3. **Linear Regression Model:** Linear regression establishes a relationship between users' interest scores and their prospective career paths, allowing for accurate predictions.
+   ![image](https://github.com/AnivartakJ/Career-Prediction-Model-Career.io-/assets/126934403/08044f34-5696-4741-953c-ac5c64104db5)
+
+3. **K-Nearest Neighbors (KNN) Model:** The KNN model predicts users' potential career paths by comparing their interest scores with those of similar users in the dataset.
+   ![image](https://github.com/AnivartakJ/Career-Prediction-Model-Career.io-/assets/126934403/44abccb7-e050-4c22-a72a-3b1673afa9e5)
+
+5. **Linear Regression Model:** Linear regression establishes a relationship between users' interest scores and their prospective career paths, allowing for accurate predictions.
+   ![image](https://github.com/AnivartakJ/Career-Prediction-Model-Career.io-/assets/126934403/095e390b-9995-407d-846a-92423eb83ad9)
+
    
 
 ## Data Collection and Preparation

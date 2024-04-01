@@ -39,13 +39,16 @@ Each user provides scores ranging from 0 to 10 for each field, indicating their 
 
 We employ three different algorithms for career prediction:
 
-1. **Logistic Regression:** This algorithm classifies users into different career paths based on their interest scores in various fields. (for more details kindly  check main.py)
+# 1.Logistic Regression (main.py): 
+Utilizing logistic regression, our model effectively categorizes users into distinct career paths based on their interest scores across multiple fields. By analyzing the data, it determines the most suitable career options for each user, providing valuable insights for career decision-making.
    ![image](https://github.com/AnivartakJ/Career-Prediction-Model-Career.io-/assets/126934403/08044f34-5696-4741-953c-ac5c64104db5)
 
-3. **K-Nearest Neighbors (KNN) Model:** The KNN model predicts users' potential career paths by comparing their interest scores with those of similar users in the dataset. (for more details kindly  check main2.py)
+ # 2. K-Nearest Neighbors (KNN) Model (main2.py):
+ Leveraging the KNN algorithm, our model identifies potential career paths for users by comparing their interest scores with those of similar individuals in the dataset. Through this proximity-based approach, it offers personalized career recommendations tailored to each user's preferences and strengths.
    ![image](https://github.com/AnivartakJ/Career-Prediction-Model-Career.io-/assets/126934403/44abccb7-e050-4c22-a72a-3b1673afa9e5)
 
-5. **Linear Regression Model:** Linear regression establishes a relationship between users' interest scores and their prospective career paths, allowing for accurate predictions. (for more details kindly  check main3.py)
+ # 3. Linear Regression Model (main3.py): 
+ Our linear regression model establishes a linear relationship between users' interest scores and their anticipated career paths. By analyzing this relationship, the model accurately predicts the most fitting career options for users, providing them with valuable guidance for their professional journey.
    ![image](https://github.com/AnivartakJ/Career-Prediction-Model-Career.io-/assets/126934403/095e390b-9995-407d-846a-92423eb83ad9)
 
    

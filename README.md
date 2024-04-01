@@ -2,6 +2,7 @@
 
 This project offers a predictive model to assist users in determining their career paths within the computer science domain based on their interests in various fields. The fields considered in our data include:
 
+
 - Database Fundamentals
 - Computer Architecture
 - Distributed Computing Systems
@@ -29,12 +30,15 @@ We employ three different algorithms for career prediction:
 1. **Logistic Regression:** This algorithm classifies users into different career paths based on their interest scores in various fields.
 2. **K-Nearest Neighbors (KNN) Model:** The KNN model predicts users' potential career paths by comparing their interest scores with those of similar users in the dataset.
 3. **Linear Regression Model:** Linear regression establishes a relationship between users' interest scores and their prospective career paths, allowing for accurate predictions.
+   
 
 ## Data Collection and Preparation
 
 We meticulously collected data from 10 diverse sources, each contributing valuable insights into various aspects of the computer science domain. These sources provided a rich tapestry of information, covering a wide spectrum of topics relevant to career paths in technology.
 
 After gathering data from these sources, we undertook a rigorous process to clean, organize, and integrate the data into a single cohesive dataset. This meticulous approach ensured that our dataset was not only comprehensive but also free from inconsistencies and inaccuracies.
+![image](https://github.com/AnivartakJ/Career-Prediction-Model-Career.io-/assets/126934403/a1576056-2a1a-4c7c-991d-f5391360ec8c)
+
 
 The final dataset, named `dataset9000.csv`, represents the culmination of our efforts. It contains a staggering 9000 fields of user interests, meticulously merged and curated to provide a comprehensive understanding of individuals' preferences and inclinations within the computer science domain.
 
@@ -54,3 +58,5 @@ In the future, we plan to:
 ## Maximum Accuracy
 
 After evaluating the performance of each algorithm, we found that the KNN model achieved the highest accuracy of 97.13144517066085%. This exceptional accuracy underscores the reliability and effectiveness of our predictive approach.
+![image](https://github.com/AnivartakJ/Career-Prediction-Model-Career.io-/assets/126934403/d7cb11a0-b1d6-4ac6-8f42-032e13d3b825)
+

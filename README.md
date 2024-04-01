@@ -1,6 +1,18 @@
 # Career Prediction Model
+This project, integrated into our career website, leverages machine learning models to aid users in identifying suitable career paths within the computer science domain based on their interests in various fields. Drawing from a diverse range of references and knowledge, our career website offers a comprehensive outlook on potential career trajectories. 
+# Home page
+![image](https://github.com/AnivartakJ/Career-Prediction-Model-Career.io-/assets/126934403/2b0a5371-64e7-40f1-9fdd-47f8552f9e67)
 
-This project offers a predictive model to assist users in determining their career paths within the computer science domain based on their interests in various fields. The fields considered in our data include:
+# Prediction demo page
+![image](https://github.com/AnivartakJ/Career-Prediction-Model-Career.io-/assets/126934403/aa7f62de-c2d3-427b-b8b5-254eb940ee9e)
+
+# Courses page 
+![image](https://github.com/AnivartakJ/Career-Prediction-Model-Career.io-/assets/126934403/1faaf4fe-c273-4476-8255-4e03b611bcc7)
+
+
+
+
+This  offers a predictive model to assist users in determining their career paths within the computer science domain based on their interests in various fields. The fields considered in our data include:
 
 
 - Database Fundamentals

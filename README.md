@@ -53,4 +53,4 @@ In the future, we plan to:
 
 ## Maximum Accuracy
 
-After evaluating the performance of each algorithm, we found that the KNN model achieved the highest accuracy of 95%. This exceptional accuracy underscores the reliability and effectiveness of our predictive approach.
+After evaluating the performance of each algorithm, we found that the KNN model achieved the highest accuracy of 97.13144517066085%. This exceptional accuracy underscores the reliability and effectiveness of our predictive approach.

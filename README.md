@@ -1,4 +1,4 @@
-# Career Prediction Model
+## Career Prediction Model
 This project, integrated into our career website, leverages machine learning models to aid users in identifying suitable career paths within the computer science domain based on their interests in various fields. Drawing from a diverse range of references and knowledge, our career website offers a comprehensive outlook on potential career trajectories. 
 # Home page
 ![image](https://github.com/AnivartakJ/Career-Prediction-Model-Career.io-/assets/126934403/2b0a5371-64e7-40f1-9fdd-47f8552f9e67)
@@ -39,16 +39,21 @@ Each user provides scores ranging from 0 to 10 for each field, indicating their 
 
 We employ three different algorithms for career prediction:
 
-# 1.Logistic Regression (main.py): 
+## 1.Logistic Regression (main.py): 
 Utilizing logistic regression, our model effectively categorizes users into distinct career paths based on their interest scores across multiple fields. By analyzing the data, it determines the most suitable career options for each user, providing valuable insights for career decision-making.
+
    ![image](https://github.com/AnivartakJ/Career-Prediction-Model-Career.io-/assets/126934403/08044f34-5696-4741-953c-ac5c64104db5)
 
- # 2. K-Nearest Neighbors (KNN) Model (main2.py):
- Leveraging the KNN algorithm, our model identifies potential career paths for users by comparing their interest scores with those of similar individuals in the dataset. Through this proximity-based approach, it offers personalized career recommendations tailored to each user's preferences and strengths.
-   ![image](https://github.com/AnivartakJ/Career-Prediction-Model-Career.io-/assets/126934403/44abccb7-e050-4c22-a72a-3b1673afa9e5)
 
- # 3. Linear Regression Model (main3.py): 
+ ## 2. K-Nearest Neighbors (KNN) Model (main2.py):
+ Leveraging the KNN algorithm, our model identifies potential career paths for users by comparing their interest scores with those of similar individuals in the dataset. Through this proximity-based approach, it offers personalized career recommendations tailored to each user's preferences and strengths.
+ 
+   ![image](https://github.com/AnivartakJ/Career-Prediction-Model-Career.io-/assets/126934403/44abccb7-e050-4c22-a72a-3b1673afa9e5)
+   
+
+ ## 3. Linear Regression Model (main3.py): 
  Our linear regression model establishes a linear relationship between users' interest scores and their anticipated career paths. By analyzing this relationship, the model accurately predicts the most fitting career options for users, providing them with valuable guidance for their professional journey.
+ 
    ![image](https://github.com/AnivartakJ/Career-Prediction-Model-Career.io-/assets/126934403/095e390b-9995-407d-846a-92423eb83ad9)
 
    
@@ -58,6 +63,7 @@ Utilizing logistic regression, our model effectively categorizes users into dist
 We meticulously collected data from 10 diverse sources, each contributing valuable insights into various aspects of the computer science domain. These sources provided a rich tapestry of information, covering a wide spectrum of topics relevant to career paths in technology.
 
 After gathering data from these sources, we undertook a rigorous process to clean, organize, and integrate the data into a single cohesive dataset. This meticulous approach ensured that our dataset was not only comprehensive but also free from inconsistencies and inaccuracies.
+
 ![image](https://github.com/AnivartakJ/Career-Prediction-Model-Career.io-/assets/126934403/a1576056-2a1a-4c7c-991d-f5391360ec8c)
 
 
@@ -79,5 +85,6 @@ In the future, we plan to:
 ## Maximum Accuracy
 
 After evaluating the performance of each algorithm, we found that the KNN model achieved the highest accuracy of 97.13144517066085%. This exceptional accuracy underscores the reliability and effectiveness of our predictive approach.
+
 ![image](https://github.com/AnivartakJ/Career-Prediction-Model-Career.io-/assets/126934403/d7cb11a0-b1d6-4ac6-8f42-032e13d3b825)
 

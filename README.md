@@ -55,6 +55,12 @@ Utilizing logistic regression, our model effectively categorizes users into dist
  Our linear regression model establishes a linear relationship between users' interest scores and their anticipated career paths. By analyzing this relationship, the model accurately predicts the most fitting career options for users, providing them with valuable guidance for their professional journey.
  
    ![image](https://github.com/AnivartakJ/Career-Prediction-Model-Career.io-/assets/126934403/095e390b-9995-407d-846a-92423eb83ad9)
+   
+
+## 4. Random Forest Algorithm (main4.py):
+ Our Random Forest algorithm operates by constructing a multitude of decision trees during training and outputs the mode of the classes (classification) or mean prediction (regression) of the individual trees. This ensemble technique enhances predictive accuracy and generalization by mitigating overfitting and capturing complex patterns in the data. By harnessing the collective wisdom of numerous decision trees, our Random Forest model achieves remarkable accuracy in predicting users' career paths, offering insightful guidance for their future endeavors.
+ 
+   ![image](https://github.com/AnivartakJ/Career-Prediction-Model-Career.io-/assets/126934403/db4a10f1-b841-4249-9243-fe860fbe7550)
 
    
 
@@ -84,7 +90,11 @@ In the future, we plan to:
 
 ## Maximum Accuracy
 
-After evaluating the performance of each algorithm, we found that the KNN model achieved the highest accuracy of 97.13144517066085%. This exceptional accuracy underscores the reliability and effectiveness of our predictive approach.
+After evaluating the performance of KNN algo , we found that the KNN model achieved the highest accuracy of 97.13144517066085%. This exceptional accuracy underscores the reliability and effectiveness of our predictive approach.
 
 ![image](https://github.com/AnivartakJ/Career-Prediction-Model-Career.io-/assets/126934403/d7cb11a0-b1d6-4ac6-8f42-032e13d3b825)
+
+After evaluating the performance of each algorithm, we found that the KNN model achieved the highest accuracy of 100.00%. This exceptional accuracy underscores the reliability and effectiveness of our predictive approach.
+
+![image](https://github.com/AnivartakJ/Career-Prediction-Model-Career.io-/assets/126934403/570fa456-5a8b-4174-a27d-2c9a7744f19a)
 
